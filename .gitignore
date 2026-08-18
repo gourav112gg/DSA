@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Debug files and compiled binaries
+*.dSYM/
+*.o
+*.out
+*.a
+*.so
+
+# Compiled executables (without extension)
+BUUBLE_SORT/Ascending_Bubble_sort
+BUUBLE_SORT/Descending_Bubble_sort
+BUUBLE_SORT/Using_fun_Ascending_Bubble_sort
+LINEAR_SEARCH/Linear_search
+SELECTION_SORT/Selection_sort
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
