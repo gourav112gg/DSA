@@ -9,6 +9,7 @@
 *.dSYM/
 *.o
 *.out
+*.class
 *.a
 *.so
 
@@ -22,6 +23,8 @@ SELECTION_SORT/Selection_sort
 # IDE and editor files
 .vscode/
 .idea/
+*.iml
+out/
 *.swp
 *.swo
 
